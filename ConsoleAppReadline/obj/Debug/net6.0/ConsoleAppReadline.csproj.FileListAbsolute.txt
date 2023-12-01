@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\ConsoleReadline\ConsoleAppReadline\ConsoleAppReadline\bin\Debug\net6.0\ConsoleAppReadline.exe
+C:\Users\PC\Desktop\ConsoleReadline\ConsoleAppReadline\ConsoleAppReadline\bin\Debug\net6.0\ConsoleAppReadline.deps.json
+C:\Users\PC\Desktop\ConsoleReadline\ConsoleAppReadline\ConsoleAppReadline\bin\Debug\net6.0\ConsoleAppReadline.runtimeconfig.json
+C:\Users\PC\Desktop\ConsoleReadline\ConsoleAppReadline\ConsoleAppReadline\bin\Debug\net6.0\ConsoleAppReadline.dll
+C:\Users\PC\Desktop\ConsoleReadline\ConsoleAppReadline\ConsoleAppReadline\bin\Debug\net6.0\ConsoleAppReadline.pdb
+C:\Users\PC\Desktop\ConsoleReadline\ConsoleAppReadline\ConsoleAppReadline\obj\Debug\net6.0\ConsoleAppReadline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\ConsoleReadline\ConsoleAppReadline\ConsoleAppReadline\obj\Debug\net6.0\ConsoleAppReadline.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\ConsoleReadline\ConsoleAppReadline\ConsoleAppReadline\obj\Debug\net6.0\ConsoleAppReadline.AssemblyInfo.cs
+C:\Users\PC\Desktop\ConsoleReadline\ConsoleAppReadline\ConsoleAppReadline\obj\Debug\net6.0\ConsoleAppReadline.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ConsoleReadline\ConsoleAppReadline\ConsoleAppReadline\obj\Debug\net6.0\ConsoleAppReadline.dll
+C:\Users\PC\Desktop\ConsoleReadline\ConsoleAppReadline\ConsoleAppReadline\obj\Debug\net6.0\refint\ConsoleAppReadline.dll
+C:\Users\PC\Desktop\ConsoleReadline\ConsoleAppReadline\ConsoleAppReadline\obj\Debug\net6.0\ConsoleAppReadline.pdb
+C:\Users\PC\Desktop\ConsoleReadline\ConsoleAppReadline\ConsoleAppReadline\obj\Debug\net6.0\ConsoleAppReadline.genruntimeconfig.cache
+C:\Users\PC\Desktop\ConsoleReadline\ConsoleAppReadline\ConsoleAppReadline\obj\Debug\net6.0\ref\ConsoleAppReadline.dll
